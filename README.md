@@ -31,18 +31,18 @@
 * PSD切版
 
 ## **作品集**
-1. [jQuery][1]
+1. [jQuery][1] [Code][5]
    * PSD切版
    * 使用Nivo-Slider、lightbox等jQuery plugins
-2. [餐廳電子商務網站][2]
+2. [餐廳電子商務網站][2] [Code][6]
    * RWD
    * jQuery
    * SASS
-3. [BMI計算機][3]
+3. [BMI計算機][3] [Code][7]
    * localstorage儲存資料
    * RWD
    * SASS
-4. [高雄旅遊資訊][4]
+4. [高雄旅遊資訊][4] [Code][8]
    * 以AJAX撈取opendata
    * localstorage儲存資料
    * 多筆資料分頁顯示
@@ -60,3 +60,7 @@
 [2]: https://wan0.github.io/hex_restaurant/
 [3]: https://wan0.github.io/BMI/
 [4]: https://wan0.github.io/KaohsiungTravel/
+[5]: https://github.com/wan0/finalproject
+[6]: https://github.com/wan0/hex_restaurant
+[7]: https://github.com/wan0/BMI
+[8]: https://github.com/wan0/KaohsiungTravel
